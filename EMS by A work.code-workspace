@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "EMS by A work",
+			"path": "."
+		},
+		{
+			"name": "Nauka JS",
+			"path": "../../Majek/Nauka JS"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "EMS by A work"
+	}
+}
